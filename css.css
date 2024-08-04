@@ -43,3 +43,9 @@ body {
   justify-content: space-around;
   align-items: end;
 }
+.main_container6 {
+  background-color: coral;
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
