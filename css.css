@@ -12,3 +12,26 @@ body {
   padding: 20px;
   background-color: white;
 }
+.main_container2 {
+  margin: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: coral;
+}
+.heading_center {
+  text-align: center;
+  color: blueviolet;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.main_container3 {
+  margin: 30px;
+  display: flex;
+  justify-content: start;
+  background-color: coral;
+}
+.main_container4 {
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  background-color: coral;
+}
